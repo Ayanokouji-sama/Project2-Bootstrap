@@ -23,7 +23,7 @@ Tindog is a fun and playful website project that I created to practice my skills
 1. Clone the repository:
 
    ```bash
-   [git clone https://github.com/your-username/netflix-clone.git](https://github.com/Ayanokouji-sama/Project1-Netflix-Clone.git)
+   https://github.com/Ayanokouji-sama/Project2-Bootstrap.git
 
 
 ## Contributors
